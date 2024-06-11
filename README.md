@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/C-red)
 ![Static Badge](https://img.shields.io/badge/C++-red)
 ![Static Badge](https://img.shields.io/badge/python-red)
+![Static Badge](https://img.shields.io/badge/react-orange)
